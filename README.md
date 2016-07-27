@@ -1,3 +1,3 @@
 # TicTacToe
-TicTacToe with option of player vs player/player vs cpu 
-CptS122 Group project.
+TicTacToe with option of player vs player or player vs cpu 
+
